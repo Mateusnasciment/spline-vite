@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-poppins bg-[#0E1129] transition-all duration-300 scroll-smooth antialiased;
+  }
+}
+
+::-webkit-scrollbar {
+  @apply w-[3px] rounded-full bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gradient-to-tr from-[#004CF5] to-[#E044DE] rounded-full;
+}
