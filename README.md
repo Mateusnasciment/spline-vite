@@ -1,6 +1,6 @@
 # Spline | Landing Page with 3D Design
 
-![banner](banner.png)
+![banner](./readme/banner.png)
 
 > Construction of a project conceived by the `DesignCode` channel, where he was taught how to transform a two-dimensional Figma layout into a three-dimensional layout with the Spline tool. From then on, with the available layout, it was possible to incorporate the 3D layout project created in Spline into a Landing Page with a super modern and smooth design.
 
