@@ -42,20 +42,20 @@ const style = {
 
 ![spline3d](./readme/spline3d.png)
 
-> Spline is a tool very similar to figma, but aimed at the three-dimensional development environment. In which people can collaborate as a team at the same time to develop a single project. It has a simple and very intuitive interface.
+> Spline is a tool very similar to `Figma`, but aimed at the three-dimensional development environment. In which people can collaborate as a team at the same time to develop a single project. It has a simple and very intuitive interface.
 
 To transform a figma layout into 3D, we must first export the same layers that we want to work with as a 3D component inside the Spline, the export must be in PNG and in 3x for better quality.
 
 In Spline we create a new file with a new template that should have the same measurement units as Figma. In the Spline interface there are the layers and components on the left side and the properties of each layer on the right side, and to add 3D behavior to 2D elements we will work with the properties provided by the Spline on the right side.
 
 ### Material <br />
-In Material we can assign colors, gradients, images among other properties for example. The first layer should be the UI layout image with just the elements we want in the foreground.
+In Material we can assign colors, gradients, images among other properties for example. The first layer should be the UI layout image with just the elements we want in the `foreground`.
 
 ### Shape <br />
-In the top center menu we can add new shapes and change the shape of this element such as sides, corner radius and especially add volume with the extrusion property. Also with this new shape we can add different materials and so on, like the Depth which resembles the gradient and make a shadow effect with the gradient shifting to black.
+In the top center menu we can add new shapes and change the shape of this element such as sides, corner radius and especially add volume with the `extrusion` property. Also with this new shape we can add different materials and so on, like the `depth` which resembles the gradient and make a shadow effect with the gradient shifting to black.
 
 ### Animations <br />
-Animations can be made from initial and final states in which we define these states and durations with events. Basically the animations are based on these two properties States and Events.
+Animations can be made from initial and final states in which we define these states and durations with events. Basically the animations are based on these two properties `States` and `Events`.
 
 At the end of it all, Spline provides a library called react-spline in which it allows you to export and use spline scenes directly on your React sites. And so we have a totally powerful environment to generate 3D interfaces and effects for your sites with an easy-to-implement export!
 
