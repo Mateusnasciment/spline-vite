@@ -4,7 +4,10 @@
 
 > Construction of a project conceived by the `DesignCode` channel, where he was taught how to transform a two-dimensional Figma layout into a three-dimensional layout with the Spline tool. From then on, with the available layout, it was possible to incorporate the 3D layout project created in Spline into a Landing Page with a super modern and smooth design.
 
-Looking at the organization of the code, I think that the page files or the component itself should deal not only with the content and semantics but also with how they will be presented, for me a component should deal with everything about its rendering or the way that it is presented, so I try not to separate the styles in a loose file, but keep them inside the component file itself inside a Javascript object, so I can maintain a cohesive and well-structured style with the advantage of occupying only one line for each tag you need and the React component is much more readable and clean.
+
+## Cascading Style Sheets
+
+Looking at the organization of the code, I think that the page files or the component itself should deal not only with the content and semantics but also with how they will be presented, for me a component should deal with everything about its rendering or the way that it is presented, so I try not to separate the styles in a loose file, but keep them inside the component file itself inside a `JavaScript Object`, so I can maintain a cohesive and well-structured style with the advantage of occupying only one line for each tag you need and the React component is much more readable and clean.
 
 ### TailwindCSS 
 
