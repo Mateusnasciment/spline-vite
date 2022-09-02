@@ -57,7 +57,7 @@ In the top center menu we can add new shapes and change the shape of this elemen
 ### Animations <br />
 Animations can be made from initial and final states in which we define these states and durations with events. Basically the animations are based on these two properties `States` and `Events`.
 
-At the end of it all, Spline provides a library called react-spline in which it allows you to export and use spline scenes directly on your React sites. And so we have a totally powerful environment to generate 3D interfaces and effects for your sites with an easy-to-implement export!
+At the end of it all, Spline provides a library called `react-spline` in which it allows you to export and use spline scenes directly on your React sites. And so we have a totally powerful environment to generate 3D interfaces and effects for your sites with an easy-to-implement export!
 
 ```jsx
 import Spline from '@splinetool/react-spline'
