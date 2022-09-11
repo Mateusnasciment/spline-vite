@@ -1,6 +1,6 @@
 # Spline | Landing Page with 3D Design
 
-![banner](./readme/banner.png)
+![banner](banner.png)
 
 > Construction of a project conceived by the `DesignCode` channel, where he was taught how to transform a two-dimensional Figma layout into a three-dimensional layout with the Spline tool. From then on, with the available layout, it was possible to incorporate the 3D layout project created in Spline into a Landing Page with a super modern and smooth design.
 
@@ -40,9 +40,7 @@ const style = {
 
 # Spline Design
 
-![spline3d](./readme/spline3d.png)
-
-> Spline is a tool very similar to `Figma`, but aimed at the three-dimensional development environment. In which people can collaborate as a team at the same time to develop a single project. It has a simple and very intuitive interface.
+Spline is a tool very similar to `Figma`, but aimed at the three-dimensional development environment. In which people can collaborate as a team at the same time to develop a single project. It has a simple and very intuitive interface.
 
 To transform a figma layout into 3D, we must first export the same layers that we want to work with as a 3D component inside the Spline, the export must be in PNG and in 3x for better quality.
 
